@@ -8,5 +8,5 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableWebMvc
 @ComponentScan("com.luv2code.springrestdemo")
 public class DemoConfigApp {
-
+  //This is application configuration file
 }
